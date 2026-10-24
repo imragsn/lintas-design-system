@@ -1,0 +1,34 @@
+{
+  "notice": "Illustrative data only. No real operator or service assessment.",
+  "punctuality": {
+    "onTimeTrips": 88,
+    "eligibleOperatedTrips": 100,
+    "cancelledTrips": null,
+    "tolerance": "fictional on-time window0 to5 minutes after schedule",
+    "ratePercent": 88
+  },
+  "headways": {
+    "minutes": [
+      6,
+      8,
+      10,
+      8
+    ],
+    "plannedMinutes": 8,
+    "mean": 8,
+    "populationStdDev": 1.4142135623730951,
+    "populationCVPercent": 17.67766952966369
+  },
+  "seatedOccupancy": {
+    "passengersSeated": 50,
+    "seats": 80,
+    "percent": 62.5
+  },
+  "modeShare": {
+    "scope": "fictional surveyed trips",
+    "denominator": 100,
+    "bus": 60,
+    "rail": 30,
+    "water": 10
+  }
+}

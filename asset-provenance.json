@@ -1,0 +1,262 @@
+{
+  "retrieved": "2026-10-25",
+  "thirdParty": "Google Fonts / Tokotype and Lucide; licences bundled, upstream files unmodified",
+  "assets": [
+    {
+      "path": "assets/fonts/PlusJakartaSans.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/PlusJakartaSans%5Bwght%5D.ttf",
+      "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8",
+      "bytes": 176288,
+      "ok": true
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/OFL.txt",
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "bytes": 4402,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "bytes": 3208,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/bus-front.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bus-front.svg",
+      "sha256": "4044efae177c87c8e700d9dc7079a65a1b31063241963fb48bacb75ebce72109",
+      "bytes": 456,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/tram-front.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/tram-front.svg",
+      "sha256": "44e1b7e2b5fb9b6c56341286a3fb93e75f1dae28cbbf6a04a6528e246767d895",
+      "bytes": 410,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/train-front.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/train-front.svg",
+      "sha256": "27757ea510a6d1d6258cb838a72a7b239c96f3724923adb5d529a25c3ee8e2eb",
+      "bytes": 427,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/train-front-tunnel.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/train-front-tunnel.svg",
+      "sha256": "0768744b5a601cc3b47dae74756359e43d4afe5ad528f8541d9ecb58ab73a201",
+      "bytes": 473,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/ship.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/ship.svg",
+      "sha256": "bb958a2f8c37dbb3412b07493f2739bb32349713222108bd9a3468c8893a0eb5",
+      "bytes": 539,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/plane.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/plane.svg",
+      "sha256": "4c775a62a524be78fe20aed8544933d4bd3802c5eca17cd6923509f87671d6d6",
+      "bytes": 421,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/bike.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bike.svg",
+      "sha256": "eb129250bb946117fce7ecb22f33f89dcb64c6d69a4b86724f6f75b363c91e76",
+      "bytes": 365,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/footprints.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/footprints.svg",
+      "sha256": "09ddd9fd4ac7cebfdc91e1096f7b75db019a42fffc493c4adb128a49e1dba04f",
+      "bytes": 520,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/map-pin.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg",
+      "sha256": "16f1042a62f1bda20ebab8bfc1cb79c0be285c980dea6c2c733a17902631405b",
+      "bytes": 359,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/route.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/route.svg",
+      "sha256": "fc169fd38a9963b016ad6d60fd72baa2b0ea8e0cec085bbc53287297c3d8121a",
+      "bytes": 344,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/signpost.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/signpost.svg",
+      "sha256": "9d611730cd28566263eff7df6d31e41df27fe6d6253c0cdb6da9ba7a912dd339",
+      "bytes": 460,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/ticket.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/ticket.svg",
+      "sha256": "37dfe2d23041dd13224fef9d1cb7db4b4f589b661b850f23f57105e843534a2f",
+      "bytes": 396,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/clock.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/clock.svg",
+      "sha256": "e9d3e3acf4d1c280fcf8092293439dc0a4756a908ceb859de144b12451cd1cb9",
+      "bytes": 271,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/calendar-days.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/calendar-days.svg",
+      "sha256": "9330eb8d7c4989e97b6361314abbf02953243c602874725c9e58ceca00da3bd7",
+      "bytes": 483,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/users.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users.svg",
+      "sha256": "eeed488a1ec95ba730dd69996536fb65061d6ea273afb2429ae47e65eebf401c",
+      "bytes": 383,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/person-standing.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/person-standing.svg",
+      "sha256": "02960f63be14df8543ec5dabf5250a47509c35f177eb90ef9c864aa7acc1161a",
+      "bytes": 323,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/accessibility.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/accessibility.svg",
+      "sha256": "114a9b6983ee20c43d76556bbb5633085a0e082b19464dfa36f1e27768c8f3ea",
+      "bytes": 398,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/armchair.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/armchair.svg",
+      "sha256": "94040a227db83a21e42834b8839426754b4e1f36530eb90a440abaa3f3ee13eb",
+      "bytes": 437,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/luggage.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/luggage.svg",
+      "sha256": "b0cb9548912ec4bae26f2441eda91197759ac85e37aa10721f07e0f8496051a8",
+      "bytes": 442,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/credit-card.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/credit-card.svg",
+      "sha256": "72d2b1acd904e01c6f676b4f6d07d56550a80b5d42687d43a313b85040943a2e",
+      "bytes": 326,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/arrow-left-right.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/arrow-left-right.svg",
+      "sha256": "2d64da427cbb3f14e522658459903829575b09ec15162c1a69ea6ad341a4359a",
+      "bytes": 313,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/move-right.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/move-right.svg",
+      "sha256": "5d5cd515e240654303ee557b0010988c2b4fd319b99aec9d13b7c6c846a4e08f",
+      "bytes": 265,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/circle-check.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/circle-check.svg",
+      "sha256": "9711e045a5999f8a3b0782eb88e09b04e0559bc7b379dcc0a4ae645223e10345",
+      "bytes": 278,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/triangle-alert.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/triangle-alert.svg",
+      "sha256": "4866f38b8560d410f21e3226413e0b77997b6dfbb6931fadfe0a0d5aef9ffeb4",
+      "bytes": 345,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/info.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/info.svg",
+      "sha256": "bc977a64eb96f3e9c1041ffd09a3fceb70e3e65c02b571f76064062ed31f3cb9",
+      "bytes": 294,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/shield-check.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg",
+      "sha256": "8d4fcdbde5bba4abb1a2f6fe53e37ceb6343a1d5449a9d88f6f97c1971d26c4e",
+      "bytes": 415,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/bar-chart-3.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "assets/icons/chart-column.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chart-column.svg",
+      "sha256": "80664a4c5ca1bca10bcb88c1a99f62593c94d61d72d3a4bbf577eb3f3ea4da57",
+      "bytes": 320,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/file-text.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/file-text.svg",
+      "sha256": "52ca55846c202335fb870c8aa23e9345630ec10489303756d62e750f7109605c",
+      "bytes": 444,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/wallet.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/wallet.svg",
+      "sha256": "76c9596f629a2abf9cfabb573452f3113ed7e9502c699aa811e630f156eb7556",
+      "bytes": 387,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/building-2.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/building-2.svg",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "assets/icons/message-circle.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/message-circle.svg",
+      "sha256": "146f39740fe50844394d56ae1f8821937655bcfff3842bf6fe8ffc0bcd324076",
+      "bytes": 347,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/search.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/search.svg",
+      "sha256": "283d371c2e433817bb9c0c8310caa6c77fa4177c0f4f1168d9c83b97af7389dc",
+      "bytes": 275,
+      "ok": true
+    },
+    {
+      "path": "assets/icons/circle-help.svg",
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/circle-help.svg",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

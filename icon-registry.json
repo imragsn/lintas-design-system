@@ -1,0 +1,312 @@
+[
+  {
+    "id": "IC01",
+    "asset": "bus-front",
+    "group": "Modes",
+    "label": "Bus",
+    "meaning": "Bus or BRT only when named by user; icon alone does not identify operator.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC02",
+    "asset": "tram-front",
+    "group": "Modes",
+    "label": "Tram",
+    "meaning": "Street-running rail when supplied context matches.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC03",
+    "asset": "train-front",
+    "group": "Modes",
+    "label": "Rail",
+    "meaning": "Rail service; add operator/service name in text.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC04",
+    "asset": "train-front-tunnel",
+    "group": "Modes",
+    "label": "Urban rail",
+    "meaning": "Urban rail context; no automatic MRT/LRT claim.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC05",
+    "asset": "ship",
+    "group": "Modes",
+    "label": "Water transport",
+    "meaning": "Passenger vessel only when explicitly labeled.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC06",
+    "asset": "plane",
+    "group": "Modes",
+    "label": "Air transport",
+    "meaning": "Air connection or airport context.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC07",
+    "asset": "bike",
+    "group": "Modes",
+    "label": "Cycling",
+    "meaning": "Cycling connection, not automatically an available rental service.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC08",
+    "asset": "footprints",
+    "group": "Modes",
+    "label": "Walking connection",
+    "meaning": "Abstract walking link; do not infer a specific accessible route.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC09",
+    "asset": "map-pin",
+    "group": "Journey and access",
+    "label": "Location",
+    "meaning": "Point/location; a pin is not proof of coverage.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC10",
+    "asset": "route",
+    "group": "Journey and access",
+    "label": "Route",
+    "meaning": "Path or route concept; no geographic accuracy implied.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC11",
+    "asset": "signpost",
+    "group": "Journey and access",
+    "label": "Wayfinding",
+    "meaning": "Directions or information context.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC12",
+    "asset": "ticket",
+    "group": "Journey and access",
+    "label": "Ticket",
+    "meaning": "Ticketing concept; not a real valid ticket or QR credential.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC13",
+    "asset": "clock",
+    "group": "Journey and access",
+    "label": "Time",
+    "meaning": "Time/waiting/headway; state unit and measure.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC14",
+    "asset": "calendar-days",
+    "group": "Journey and access",
+    "label": "Schedule",
+    "meaning": "Service calendar; actual dates need evidence.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC15",
+    "asset": "arrow-left-right",
+    "group": "Journey and access",
+    "label": "Transfer",
+    "meaning": "Transfer/exchange; label if ambiguous.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC16",
+    "asset": "person-standing",
+    "group": "Journey and access",
+    "label": "Passenger",
+    "meaning": "Person/passenger concept; no count by icon multiplication.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC17",
+    "asset": "accessibility",
+    "group": "Journey and access",
+    "label": "Mobility access",
+    "meaning": "Wheelchair/mobility-access context. Actual facilities require evidence; this is not a compliance certification.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC18",
+    "asset": "armchair",
+    "group": "Journey and access",
+    "label": "Seating",
+    "meaning": "Seating availability only with evidence; not automatically priority seating.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC19",
+    "asset": "luggage",
+    "group": "Journey and access",
+    "label": "Luggage",
+    "meaning": "Luggage context, not an operator baggage allowance.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC20",
+    "asset": "credit-card",
+    "group": "Journey and access",
+    "label": "Payment",
+    "meaning": "Payment concept; accepted methods require confirmation.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC21",
+    "asset": "users",
+    "group": "General",
+    "label": "People",
+    "meaning": "Group or stakeholders; not automatically passengers.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC22",
+    "asset": "move-right",
+    "group": "General",
+    "label": "Next step",
+    "meaning": "Direction/sequence in context.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC23",
+    "asset": "circle-check",
+    "group": "General",
+    "label": "Confirmed / complete",
+    "meaning": "Only if supported by stated evidence or use as neutral list marker.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC24",
+    "asset": "triangle-alert",
+    "group": "General",
+    "label": "Attention",
+    "meaning": "Needs written issue/threshold; never color alone.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC25",
+    "asset": "info",
+    "group": "General",
+    "label": "Information",
+    "meaning": "Explanation/caveat.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC26",
+    "asset": "shield-check",
+    "group": "General",
+    "label": "Assurance",
+    "meaning": "Security/safety concept, not certification or guaranteed safety.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC27",
+    "asset": "chart-column",
+    "group": "General",
+    "label": "Analysis",
+    "meaning": "Data/analysis concept, not a miniature quantitative chart.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC28",
+    "asset": "file-text",
+    "group": "General",
+    "label": "Document",
+    "meaning": "Source/report/record.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC29",
+    "asset": "wallet",
+    "group": "General",
+    "label": "Budget",
+    "meaning": "Financial context; does not represent a currency.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC30",
+    "asset": "message-circle",
+    "group": "General",
+    "label": "Communication",
+    "meaning": "Feedback/contact context.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  },
+  {
+    "id": "IC31",
+    "asset": "search",
+    "group": "General",
+    "label": "Search / inspect",
+    "meaning": "Search or investigation in context.",
+    "source": "Lucide",
+    "viewBox": "0 0 24 24",
+    "stroke": 2
+  }
+]

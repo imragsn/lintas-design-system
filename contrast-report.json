@@ -1,0 +1,148 @@
+{
+  "method": "WCAG sRGB relative luminance",
+  "textPairs": [
+    {
+      "fg": "ink",
+      "bg": "ivory",
+      "ratio": 12.861,
+      "textAA": true
+    },
+    {
+      "fg": "navy",
+      "bg": "ivory",
+      "ratio": 12.729,
+      "textAA": true
+    },
+    {
+      "fg": "navy",
+      "bg": "gold",
+      "ratio": 7.517,
+      "textAA": true
+    },
+    {
+      "fg": "navy",
+      "bg": "sky",
+      "ratio": 11.329,
+      "textAA": true
+    },
+    {
+      "fg": "ivory",
+      "bg": "navy",
+      "ratio": 12.729,
+      "textAA": true
+    },
+    {
+      "fg": "ivory",
+      "bg": "panelNavy",
+      "ratio": 10.04,
+      "textAA": true
+    },
+    {
+      "fg": "muted",
+      "bg": "ivory",
+      "ratio": 5.734,
+      "textAA": true
+    },
+    {
+      "fg": "muted",
+      "bg": "sky",
+      "ratio": 5.103,
+      "textAA": true
+    },
+    {
+      "fg": "blue",
+      "bg": "ivory",
+      "ratio": 5.917,
+      "textAA": true
+    },
+    {
+      "fg": "positive",
+      "bg": "ivory",
+      "ratio": 6.552,
+      "textAA": true
+    },
+    {
+      "fg": "warning",
+      "bg": "ivory",
+      "ratio": 6.234,
+      "textAA": true
+    },
+    {
+      "fg": "negative",
+      "bg": "ivory",
+      "ratio": 6.053,
+      "textAA": true
+    },
+    {
+      "fg": "info",
+      "bg": "ivory",
+      "ratio": 5.917,
+      "textAA": true
+    }
+  ],
+  "seriesMarks": [
+    {
+      "series": "#102D50",
+      "background": "ivory",
+      "ratio": 12.729,
+      "graphicsPass": true
+    },
+    {
+      "series": "#245FA5",
+      "background": "ivory",
+      "ratio": 5.917,
+      "graphicsPass": true
+    },
+    {
+      "series": "#A16A19",
+      "background": "ivory",
+      "ratio": 4.196,
+      "graphicsPass": true
+    },
+    {
+      "series": "#75538C",
+      "background": "ivory",
+      "ratio": 5.712,
+      "graphicsPass": true
+    },
+    {
+      "series": "#236344",
+      "background": "ivory",
+      "ratio": 6.552,
+      "graphicsPass": true
+    }
+  ],
+  "limits": "Gold fill needs navy outline on ivory;line token decorative only. Dark-background chart series require separate contrast check.",
+  "heatmapTextPairs": [
+    {
+      "fg": "#172D45",
+      "bg": "#DCEAF6",
+      "ratio": 11.446,
+      "textAA": true
+    },
+    {
+      "fg": "#172D45",
+      "bg": "#A9C3DE",
+      "ratio": 7.71,
+      "textAA": true
+    },
+    {
+      "fg": "#172D45",
+      "bg": "#789FC7",
+      "ratio": 5.063,
+      "textAA": true
+    },
+    {
+      "fg": "#F7F5EF",
+      "bg": "#3B6D9B",
+      "ratio": 5.007,
+      "textAA": true
+    },
+    {
+      "fg": "#F7F5EF",
+      "bg": "#102D50",
+      "ratio": 12.729,
+      "textAA": true
+    }
+  ]
+}

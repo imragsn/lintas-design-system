@@ -1,0 +1,189 @@
+{
+  "system": "lintas",
+  "retrievedOrAdapted": "2026-10-25",
+  "iconSource": "https://github.com/lucide-icons/lucide",
+  "fontSource": "https://github.com/google/fonts",
+  "adaptation": "See icon-registry.json and THIRD-PARTY-NOTICES.md. Original typography/geometry retained;new icon presentation adapted per system.",
+  "files": [
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "bytes": 4402
+    },
+    {
+      "path": "assets/fonts/PlusJakartaSans.ttf",
+      "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8",
+      "bytes": 176288
+    },
+    {
+      "path": "assets/icons/accessibility.svg",
+      "sha256": "114a9b6983ee20c43d76556bbb5633085a0e082b19464dfa36f1e27768c8f3ea",
+      "bytes": 398
+    },
+    {
+      "path": "assets/icons/armchair.svg",
+      "sha256": "94040a227db83a21e42834b8839426754b4e1f36530eb90a440abaa3f3ee13eb",
+      "bytes": 437
+    },
+    {
+      "path": "assets/icons/arrow-left-right.svg",
+      "sha256": "2d64da427cbb3f14e522658459903829575b09ec15162c1a69ea6ad341a4359a",
+      "bytes": 313
+    },
+    {
+      "path": "assets/icons/bike.svg",
+      "sha256": "eb129250bb946117fce7ecb22f33f89dcb64c6d69a4b86724f6f75b363c91e76",
+      "bytes": 365
+    },
+    {
+      "path": "assets/icons/bus-front.svg",
+      "sha256": "4044efae177c87c8e700d9dc7079a65a1b31063241963fb48bacb75ebce72109",
+      "bytes": 456
+    },
+    {
+      "path": "assets/icons/calendar-days.svg",
+      "sha256": "9330eb8d7c4989e97b6361314abbf02953243c602874725c9e58ceca00da3bd7",
+      "bytes": 483
+    },
+    {
+      "path": "assets/icons/chart-column.svg",
+      "sha256": "80664a4c5ca1bca10bcb88c1a99f62593c94d61d72d3a4bbf577eb3f3ea4da57",
+      "bytes": 320
+    },
+    {
+      "path": "assets/icons/circle-check.svg",
+      "sha256": "9711e045a5999f8a3b0782eb88e09b04e0559bc7b379dcc0a4ae645223e10345",
+      "bytes": 278
+    },
+    {
+      "path": "assets/icons/clock.svg",
+      "sha256": "e9d3e3acf4d1c280fcf8092293439dc0a4756a908ceb859de144b12451cd1cb9",
+      "bytes": 271
+    },
+    {
+      "path": "assets/icons/credit-card.svg",
+      "sha256": "72d2b1acd904e01c6f676b4f6d07d56550a80b5d42687d43a313b85040943a2e",
+      "bytes": 326
+    },
+    {
+      "path": "assets/icons/file-text.svg",
+      "sha256": "52ca55846c202335fb870c8aa23e9345630ec10489303756d62e750f7109605c",
+      "bytes": 444
+    },
+    {
+      "path": "assets/icons/footprints.svg",
+      "sha256": "09ddd9fd4ac7cebfdc91e1096f7b75db019a42fffc493c4adb128a49e1dba04f",
+      "bytes": 520
+    },
+    {
+      "path": "assets/icons/info.svg",
+      "sha256": "bc977a64eb96f3e9c1041ffd09a3fceb70e3e65c02b571f76064062ed31f3cb9",
+      "bytes": 294
+    },
+    {
+      "path": "assets/icons/LICENSE.txt",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "bytes": 3208
+    },
+    {
+      "path": "assets/icons/luggage.svg",
+      "sha256": "b0cb9548912ec4bae26f2441eda91197759ac85e37aa10721f07e0f8496051a8",
+      "bytes": 442
+    },
+    {
+      "path": "assets/icons/map-pin.svg",
+      "sha256": "16f1042a62f1bda20ebab8bfc1cb79c0be285c980dea6c2c733a17902631405b",
+      "bytes": 359
+    },
+    {
+      "path": "assets/icons/message-circle.svg",
+      "sha256": "146f39740fe50844394d56ae1f8821937655bcfff3842bf6fe8ffc0bcd324076",
+      "bytes": 347
+    },
+    {
+      "path": "assets/icons/move-right.svg",
+      "sha256": "5d5cd515e240654303ee557b0010988c2b4fd319b99aec9d13b7c6c846a4e08f",
+      "bytes": 265
+    },
+    {
+      "path": "assets/icons/person-standing.svg",
+      "sha256": "02960f63be14df8543ec5dabf5250a47509c35f177eb90ef9c864aa7acc1161a",
+      "bytes": 323
+    },
+    {
+      "path": "assets/icons/plane.svg",
+      "sha256": "4c775a62a524be78fe20aed8544933d4bd3802c5eca17cd6923509f87671d6d6",
+      "bytes": 421
+    },
+    {
+      "path": "assets/icons/route.svg",
+      "sha256": "fc169fd38a9963b016ad6d60fd72baa2b0ea8e0cec085bbc53287297c3d8121a",
+      "bytes": 344
+    },
+    {
+      "path": "assets/icons/search.svg",
+      "sha256": "283d371c2e433817bb9c0c8310caa6c77fa4177c0f4f1168d9c83b97af7389dc",
+      "bytes": 275
+    },
+    {
+      "path": "assets/icons/shield-check.svg",
+      "sha256": "8d4fcdbde5bba4abb1a2f6fe53e37ceb6343a1d5449a9d88f6f97c1971d26c4e",
+      "bytes": 415
+    },
+    {
+      "path": "assets/icons/ship.svg",
+      "sha256": "bb958a2f8c37dbb3412b07493f2739bb32349713222108bd9a3468c8893a0eb5",
+      "bytes": 539
+    },
+    {
+      "path": "assets/icons/signpost.svg",
+      "sha256": "9d611730cd28566263eff7df6d31e41df27fe6d6253c0cdb6da9ba7a912dd339",
+      "bytes": 460
+    },
+    {
+      "path": "assets/icons/ticket.svg",
+      "sha256": "37dfe2d23041dd13224fef9d1cb7db4b4f589b661b850f23f57105e843534a2f",
+      "bytes": 396
+    },
+    {
+      "path": "assets/icons/train-front-tunnel.svg",
+      "sha256": "0768744b5a601cc3b47dae74756359e43d4afe5ad528f8541d9ecb58ab73a201",
+      "bytes": 473
+    },
+    {
+      "path": "assets/icons/train-front.svg",
+      "sha256": "27757ea510a6d1d6258cb838a72a7b239c96f3724923adb5d529a25c3ee8e2eb",
+      "bytes": 427
+    },
+    {
+      "path": "assets/icons/tram-front.svg",
+      "sha256": "44e1b7e2b5fb9b6c56341286a3fb93e75f1dae28cbbf6a04a6528e246767d895",
+      "bytes": 410
+    },
+    {
+      "path": "assets/icons/triangle-alert.svg",
+      "sha256": "4866f38b8560d410f21e3226413e0b77997b6dfbb6931fadfe0a0d5aef9ffeb4",
+      "bytes": 345
+    },
+    {
+      "path": "assets/icons/users.svg",
+      "sha256": "eeed488a1ec95ba730dd69996536fb65061d6ea273afb2429ae47e65eebf401c",
+      "bytes": 383
+    },
+    {
+      "path": "assets/icons/wallet.svg",
+      "sha256": "76c9596f629a2abf9cfabb573452f3113ed7e9502c699aa811e630f156eb7556",
+      "bytes": 387
+    },
+    {
+      "path": "assets/illustrations/bus-scene.svg",
+      "sha256": "6c728465cbe6fa3790fb33b05e42c564e3d4b61da63a5b82999416a501130516",
+      "bytes": 1039
+    },
+    {
+      "path": "assets/illustrations/schematic-route.svg",
+      "sha256": "d76b7e451a8cb0c0802712074a3bb60fdaee52211f09e4615b8f473ce3c01be5",
+      "bytes": 1125
+    }
+  ]
+}

@@ -34,5 +34,5 @@ English 1,250.5 / 25 Oct 2026; Indonesian 1.250,5 / 25 Oktober 2026. Follow user
 Number, pattern, purpose, headline, claim, source locator, unit/period, caveat, takeaway, action. Keep production notes outside audience copy unless useful to interpretation.
 
 ## Transport extension / Ekstensi transportasi
-Lead with the passenger/service question, not vehicle decoration. Define boardings vs unique people, timing tolerances,headway direction/time window,coverage denominator and planned/actual state. No unsupported claims about service availability,accessibility or safety.
-Mulai dari pertanyaan tentang penumpang/layanan. Bedakan jumlah naik kendaraan dan orang unik. Jelaskan toleransi waktu,arah/periode headway,pembagi cakupan,serta status rencana atau operasi. Ikon tidak membuktikan ketersediaan,aksesibilitas,atau keselamatan layanan.
+Lead with the passenger/service question, not vehicle decoration. Define boardings vs unique people, timing tolerances, headway direction/time window, coverage denominator and planned/actual state. No unsupported claims about service availability, accessibility or safety.
+Mulai dari pertanyaan tentang penumpang/layanan. Bedakan jumlah naik kendaraan dan orang unik. Jelaskan toleransi waktu, arah/periode headway, pembagi cakupan, serta status rencana atau operasi. Ikon tidak membuktikan ketersediaan, aksesibilitas, atau keselamatan layanan.

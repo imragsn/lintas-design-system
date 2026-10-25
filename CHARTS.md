@@ -1,3 +1,32 @@
+# LINTAS — Chart guide 1.1.0
+
+| ID | Rule |
+| --- | --- |
+| CH01 / Question | Comparison→bars/dots; trend→line; part-to-whole→100%stackedbar; distribution→histogram/dots; relationship→scatter; uncertainty→intervals; exact lookup→table. |
+| CH02 / Bar | Horizontal preferred for long labels;<=8 categories on main slide.Sort by value unless ordinal/time order.Zero baseline required.Negative values around visiblezero.Square bar ends, even in rounded cards. |
+| CH03 / Grouped comparison | 2-3 series per category,<=6categories; equal scales and consistent order.Use dotplot when groups become crowded.No dualaxes by default. |
+| CH04 / Time series | Up to4series; true time spacing.Label nonzero domain if justified; missing actual points break line.Actual solid, target dashed, forecast dashed+boundary+label. |
+| CH05 / Whole | Exclusive exhaustive categories, denominator explicit;<=5segments.Fixed order, totals reconcile; use a table if parts do not form a whole.Donut optional only2-5positive parts; bars preferred for precision. |
+| CH06 / Distribution | Raw observations or documented bins.Label boundaries, count/sample size; include zero bins; compare with identical bins.No arbitrary smoothing/outlier deletion. |
+| CH07 / Scatter | Paired observations with units, scope and n.Correlation is not cause.Fit only if justified with stated method; never fabricate a regression. |
+| CH08 / Actual-target | Actual, target, period and benchmark definition.Bullet chart/dots preferred.Written threshold required for qualitative bands.Unknown status=Not assessed. |
+| CH09 / Waterfall | Opening+signed additive changes=closing.Totals startzero; changes float from cumulative balance.Show connectors and signed labels; separate total/delta encoding. |
+| CH10 / Heatmap | Sequential scale for magnitude; diverging only with meaningful midpoint.Values/legend required.Missing uses hatch+N/A, neverzero.Contrast label against each cell fill. |
+| CH11 / Interval | Show supplied lower/upper/central value and range/confidence definition.No invented intervals; prediction and confidence intervals are different. |
+| CH12 / Map | Only if geography matters.Rates for choropleth; rawcounts may need proportional symbols.Source coordinates/basemap licence, class bins, denominator, cutoff.Informational network differs from decoration. |
+| CH13 / Canvas | Units at1920x1080.Read chart labels>=26px; Present >=30px.Legend/directlabels same minimum.Full plot should occupy>=55%of content width; split instead of shrink. |
+| CH14 / Marks | Use5px line and14px marker atnative canvas;2px zeroaxis/outline,1px decorativegrid.4-6major ticks using1/2/2.5/5x10^n.Never use rounded bars,3D, area/volume pictograms or shadow as quantitative encoding. |
+| CH15 / Color | Fixed series mapping:#102D50, #245FA5, #A16A19, #75538C.Primaryfocus#E6B85Con#F7F5EFrequires2px#102D50outline.No pale accent alone for meaningful marks.Status colors require state and threshold; do not assign palette decoration a status meaning. |
+| CH16 / Typography | Direct labels preferred; avoid overlapping endpoints, slanted ticks and detached units.Resolve collision by widening, shortening truthful labels, or splitting.Critical caveats use body size, not footer. |
+| CH17 / Numbers | Source, period, scope, units, denominator andcutoff explicit.40%→50%=+10percentage points or+25%relative; specifywhich.Compute raw, round display only. |
+| CH18 / Missing | 0, null, N/A andNotassessed differ.No null-to-zero conversion; no silent interpolation.Show gaps, excluded sample and noncomparable periods. |
+| CH19 / Semantics | Colors/labels consistent across deck.Pale focus outlined; series distinguished by marker/dash/directlabel, not hue alone.No default causal headline from association. |
+| CH20 / Access and export | Provide concise accessible summary and underlying data table; SVGtitle/desc; editable native chart+source data if supported.SVGspecimen is not native chart master.Check actual render, textselection and readingorder where supported. |
+| CH21 / Integrity gate | Recompute totals, deltas, percentages, denominators, rounding and intervals.Check domain/baseline, signs, nulls, seriesmapping, labelcollisions, source and final export. |
+| CH22 / Trace record | chartID, question, type, datasetID, source locator, period/cutoff, units, denominator, fieldtypes, transformation, domain, ticks, mapping, focusreason, caveat, summary, QAresult. |
+
+## Original detailed contracts
+
 # LINTAS — Chart and transport metric contracts
 
 12 / LINTAS SYSTEM
@@ -82,9 +111,9 @@ A transport chart needs the same evidence discipline as any other chart, plus op
 
  | ID / measure | Required definition / correct use
 
- | TR01 / Ridership | Boardings,trips,ticket validations and unique people are different measures. State which is counted,coverage,period and source. An interchange may count twice in boardings.
+ | TR01 / Ridership | Boardings, trips, ticket validations and unique people are different measures. State which is counted, coverage, period and source. An interchange may count twice in boardings.
 
- | TR02 / Punctuality | On-time definition/tolerance,scheduled or operated denominator,cancelled-trip treatment,location and period. No assumed universal threshold. Example88/100=88% only under stated fictional definition.
+ | TR02 / Punctuality | On-time definition/tolerance, scheduled or operated denominator, cancelled-trip treatment, location and period. No assumed universal threshold. Example88/100=88% only under stated fictional definition.
 
  | TR03 / Headway | Time between consecutive departures/arrivals at same point/direction/time window. Show planned vs observed and variability. Mean alone can hide bunching.
 
@@ -92,17 +121,17 @@ A transport chart needs the same evidence discipline as any other chart, plus op
 
  | TR05 / Occupancy | Passengers divided by stated seats/capacity; distinguish seating occupancy from load factor using total capacity. State point/segment/period. Example50/80 seats=62.5% seated occupancy.
 
- | TR06 / Coverage | Population,area,stops or route-km denominator; buffer/walk-network definition and data cutoff. Coverage is not automatically accessibility or usability.
+ | TR06 / Coverage | Population, area, stops or route-km denominator; buffer/walk-network definition and data cutoff. Coverage is not automatically accessibility or usability.
 
  | TR07 / Reliability | State cancelled/operated/scheduled measures separately; avoid comparing metrics with different denominators. Show planned vs actual service.
 
- | TR08 / Transfers | Transfer count,time,walking distance/fare and source. Schematic network shows connectivity,not proven travel times or geographic distance.
+ | TR08 / Transfers | Transfer count, time, walking distance/fare and source. Schematic network shows connectivity, not proven travel times or geographic distance.
 
- | TR09 / Mode share | Mutually exclusive trip categories,period,geography and survey/source denominator. Round only after computing; reconcile to100% or explain missing coverage.
+ | TR09 / Mode share | Mutually exclusive trip categories, period, geography and survey/source denominator. Round only after computing; reconcile to100% or explain missing coverage.
 
  | TR10 / Accessibility | Describe verified features/service conditions. An icon or photograph alone does not establish end-to-end accessible travel.
 
- | TR11 / Safety | Counts need exposure basis for fair rate comparisons,period and definitions. No unsupported safety ranking or inference from a shield icon.
+ | TR11 / Safety | Counts need exposure basis for fair rate comparisons, period and definitions. No unsupported safety ranking or inference from a shield icon.
 
  | TR12 / Planned service | Explicitly label planned/proposed/under construction. Future route or fleet symbols cannot be styled as verified operational availability.
 
@@ -150,16 +179,16 @@ D10 / Values remain explicit. Hatch is reserved for missing data.
 
  | Underlying sample | Values
 
- | Bars / points | A40,B65,C80; scale0–100
+ | Bars / points | A40, B65, C80; scale0–100
 
- | Trend / points | Q1 28,Q2 42,Q3 null,Q4 60; target40; scale0–80
+ | Trend / points | Q1 28, Q2 42, Q3 null, Q4 60; target40; scale0–80
 
- | Shares / percent | A45,B30,C25; total100%
+ | Shares / percent | A45, B30, C25; total100%
 
  | Waterfall / units | 100+25−15+10=120
 
- | Scatter / x,y | (2,3),(4,4),(5,2),(7,6),(8,5)
+ | Scatter / x, y | (2,3),(4,4),(5,2),(7,6),(8,5)
 
- | Heatmap / scores | R1[20,40,null];R2[60,80,100]; scale0–100
+ | Heatmap / scores | R1[20,40, null]; R2[60,80,100]; scale0–100
 
 Values in the specimens are illustrative. Apply true slide-token sizing and inspect the final export.

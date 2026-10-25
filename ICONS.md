@@ -1,3 +1,20 @@
+# LINTAS — Distribution update1.1.0
+
+| ID | Rule |
+| --- | --- |
+| ICON01 / Family | Confident, people-centered navy/gold; general core plus public-transport extension. Preserve31 Lucide assets, semantic registry, mode boundaries and operational-signage distinction. |
+| ICON02 / Geometry | 24x24 viewBox; stroke2; roundcaps; roundjoins.Preserve path proportions; no stretch, skew, arbitraryrotation, emoji or mixed packs. |
+| ICON03 / Scale | Primary slide icon48px; stroke scales proportionally from24unitgrid.Clearspace>=.25x icon; width=height.Chip optional, width1.75x icon, radius24px atnative canvas. |
+| ICON04 / Density | FieldnotesInstitutional: prefer0-3, max4differentconcepticons.Otherprofiles: prefer3-5, max6.Never decorate each bullet or use icon count/size to imply quantitative magnitude. |
+| ICON05 / Semantics | Same concept=same asset+label.Unfamiliar meanings need visible text.Icondoesnot replace unit, period, source, owner or instruction.Check icon depicts intended concept; do not invent a missing icon name. |
+| ICON06 / States | Icon alone does not prove completion, safety, certification, availability or approval.Written status requires evidence and definition.Unknown=Notassessed. |
+| ICON07 / Color | #102D50on#F7F5EF/#E6B85C/#DCEAF6, or#F7F5EFon#102D50.Meaningfulicon/background>=3:1; textlabel>=4.5:1.Selectionuseschip/label, not a different family. |
+| ICON08 / Access | DecorativeHTMLicon aria-hidden; meaningfulstandaloneicon has an accessible name on wrapper.Interactiveiconbutton requires real keyboard/focus/label; staticdecklabel is not a button. |
+| ICON09 / Missing asset | Use clear text first.Custom icon requires same 24 grid/stroke review and explicit custom provenance.Do not silently substitute a different pack. |
+| ICON10 / Export | Keep SVGvector when supported; labels editable.Preserve original licence and adaptation notes.Inspectactualsize and contrast after export. |
+| ICON11 / Context | Generalicons can adapt by label; transport-specific LINTASsemantics remain optional.Institutional logos, regulatorysignage and operator symbols are separate verifiedassets. |
+| ICON12 / QA | Verify assetexists, viewBox, stroke, aspect, clear space, label, semanticmeaning, contrast, density, rights and final export. |
+
 # LINTAS — Icon construction and semantic vocabulary
 
 08 / LINTAS SYSTEM
@@ -10,31 +27,31 @@ An icon has one job.
 
  | IC-R01 / Source | Use supplied assets/icons SVG files; license bundled. Keep icon asset ID and meaning in icon-registry.json. Do not mix unrelated packs, emoji,3D clipart or vendor logos.
 
- | IC-R02 / Construction | 24x24 viewBox;2-unit stroke;round caps/joins. Keep original geometry. No skew,stretch,rotation or independently rounded filled variant.
+ | IC-R02 / Construction | 24x24 viewBox;2-unit stroke; round caps/joins. Keep original geometry. No skew, stretch, rotation or independently rounded filled variant.
 
- | IC-R03 / Scale | Web20/24/32px;slide48/64/96px. Scale stroke proportionally:48px icon→4px stroke,64→5.333px,96→8px. Avoid non-scaling stroke for this family.
+ | IC-R03 / Scale | Web20/24/32px; slide48/64/96px. Scale stroke proportionally:48px icon→4px stroke,64→5.333px,96→8px. Avoid non-scaling stroke for this family.
 
  | IC-R04 / Container | Clear space>=.25x icon width. Chip square1.75x icon;48→84,64→112. Chipr24 at84; keep family proportionate. No box unless grouping helps.
 
  | IC-R05 / Meaning | Use the same asset/label for the same concept throughout. Bus is not automatically BRT; rail is not an operator logo; an accessibility icon is not a compliance marker.
 
- | IC-R06 / Label | Transport-specific or unfamiliar icons require text. An icon cannot replace unit,period,threshold,source,route name or a full instruction.
+ | IC-R06 / Label | Transport-specific or unfamiliar icons require text. An icon cannot replace unit, period, threshold, source, route name or a full instruction.
 
- | IC-R07 / Color | Navy on gold/sky/ivory;ivory on navy. Meaningful icon/background>=3:1; label>=4.5:1. Color does not change semantic meaning.
+ | IC-R07 / Color | Navy on gold/sky/ivory; ivory on navy. Meaningful icon/background>=3:1; label>=4.5:1. Color does not change semantic meaning.
 
  | IC-R08 / Variants | Default outline only. Selected state uses containing chip emphasis plus text, not a different visual family. Do not fill the SVG paths just to show active status.
 
  | IC-R09 / Density | Prefer3-5 conceptual icons, max6 different icons per slide. A labeled map legend may need more; split if crowding. Do not decorate each bullet.
 
- | IC-R10 / Accessibility | In HTML, decorative icon aria-hidden=true; meaningful standalone symbol gets accessible name on its semantic wrapper. Icon button needs actual keyboard behavior,focus and text alternative.
+ | IC-R10 / Accessibility | In HTML, decorative icon aria-hidden=true; meaningful standalone symbol gets accessible name on its semantic wrapper. Icon button needs actual keyboard behavior, focus and text alternative.
 
  | IC-R11 / Missing symbol | Use a clear text label first. A new custom icon must pass24-grid/stroke/optical-size review and be labeled LINTAS custom in provenance. Never quietly swap packs.
 
- | IC-R12 / Export | Retain SVG as vector where supported. Keep text labels editable. If renderer cannot preserve SVG,use adequate raster export and disclose. Check lines at actual size.
+ | IC-R12 / Export | Retain SVG as vector where supported. Keep text labels editable. If renderer cannot preserve SVG, use adequate raster export and disclose. Check lines at actual size.
 
- | IC-R13 / Operational use | This is a presentation icon vocabulary. Actual safety signs,station wayfinding and accessibility symbols require the applicable verified standard/asset set, documented separately.
+ | IC-R13 / Operational use | This is a presentation icon vocabulary. Actual safety signs, station wayfinding and accessibility symbols require the applicable verified standard/asset set, documented separately.
 
- | IC-R14 / Quality | Check source/licence,viewBox,aspect,stroke,role,label,contrast,spacing and meaning. Icons do not prove service availability,accessibility,safety or regulatory compliance.
+ | IC-R14 / Quality | Check source/licence, viewBox, aspect, stroke, role, label, contrast, spacing and meaning. Icons do not prove service availability, accessibility, safety or regulatory compliance.
 48 px / 4 px stroke
 64 px / 5.33 px stroke
 96 px / 8 px stroke09 / LINTAS SYSTEM

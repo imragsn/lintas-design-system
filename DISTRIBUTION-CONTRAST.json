@@ -1,0 +1,56 @@
+{
+  "method": "WCAG relative luminance,sRGB",
+  "textPairs": [
+    {
+      "fg": "#102D50",
+      "bg": "#F7F5EF",
+      "ratio": 12.729,
+      "AA": true
+    },
+    {
+      "fg": "#102D50",
+      "bg": "#E6B85C",
+      "ratio": 7.517,
+      "AA": true
+    },
+    {
+      "fg": "#102D50",
+      "bg": "#DCEAF6",
+      "ratio": 11.329,
+      "AA": true
+    },
+    {
+      "fg": "#506278",
+      "bg": "#F7F5EF",
+      "ratio": 5.734,
+      "AA": true
+    }
+  ],
+  "seriesMarks": [
+    {
+      "color": "#102D50",
+      "on": "#F7F5EF",
+      "ratio": 12.729,
+      "graphics": true
+    },
+    {
+      "color": "#245FA5",
+      "on": "#F7F5EF",
+      "ratio": 5.917,
+      "graphics": true
+    },
+    {
+      "color": "#A16A19",
+      "on": "#F7F5EF",
+      "ratio": 4.196,
+      "graphics": true
+    },
+    {
+      "color": "#75538C",
+      "on": "#F7F5EF",
+      "ratio": 5.712,
+      "graphics": true
+    }
+  ],
+  "rule": "Pale accent focus outlined in system ink;existing status/otherpairs require their originalchecks."
+}
